@@ -44,9 +44,9 @@ Invyt is a user-friendly platform designed to streamline event planning. Create,
 
 ## Explore Our Blog
 Check out our expert guides for event planning tips:
-- [Top 10 Tips for Managing Event Guest Lists](https://www.invyt.app/blog/top-10-tips)
-- [How to Plan a Stress-Free Wedding with Invyt](https://www.invyt.app/blog/wedding-planning)
-- [Corporate Event Planning Made Simple](https://www.invyt.app/blog/corporate-events)
+- [Top 10 Tips for Managing Event Guest Lists](https://www.invyt.app/blog/10-ways-to-optimize-your-wedding-guest-list-for-a-memorable-celebration)
+- [How to Plan a Stress-Free Wedding with Invyt](https://www.invyt.app/blog?tag=Wedding%20Planning)
+- [Corporate Event Planning Made Simple](https://www.invyt.app/blog?tag=Corporate%20Events)
 - [Explore All Articles](https://www.invyt.app/blog)
 
 ## Frequently Asked Questions
@@ -58,8 +58,8 @@ Check out our expert guides for event planning tips:
 ## Stay Connected
 - **Website**: [Invyt.app](https://www.invyt.app)
 - **Blog**: [invyt.app/blog](https://www.invyt.app/blog)
-- **Follow Us**: [Instagram](https://instagram.com/invytapp) | [Threads](https://threads.net/invytapp)
-- **Contact**: [Contact Us](https://www.invyt.app/contact)
+- **Follow Us**: [Instagram](https://instagram.com/invyt.app) | [Threads](https://threads.net/@invyt.app)
+- **Contact**: [Contact Us](mailto:dev@codingspace.io)
 - **Policies**: [Privacy Policy](https://www.invyt.app/privacy) | [Terms of Service](https://www.invyt.app/terms)
 
 ## Contributing
