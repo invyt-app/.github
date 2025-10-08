@@ -63,7 +63,7 @@ Check out our expert guides for event planning tips:
 - **Policies**: [Privacy Policy](https://www.invyt.app/privacy) | [Terms of Service](https://www.invyt.app/terms)
 
 ## Contributing
-Interested in contributing to Invyt? We welcome feedback and ideas! Reach out via [Contact Us](https://www.invyt.app/contact) or create an issue on this repository.
+Interested in contributing to Invyt? We welcome feedback and ideas! Reach out via [Contact Us](mailto:dev@codingspace.io) or create an issue on this repository.
 
 ## License
 © 2025 Invyt. All rights reserved.
