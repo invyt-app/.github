@@ -38,16 +38,16 @@ Invyt is a user-friendly platform designed to streamline event planning. Create,
 > – Mike R., Event Host
 
 ## Getting Started
-1. Visit [Invyt.app](https://invyt.app) to create your free account.
+1. Visit [Invyt.app](https://www.invyt.app) to create your free account.
 2. Set up your event in minutes—no credit card required.
 3. Share your invitations and start tracking RSVPs instantly.
 
 ## Explore Our Blog
 Check out our expert guides for event planning tips:
-- [Top 10 Tips for Managing Event Guest Lists](https://invyt.app/blog/top-10-tips)
-- [How to Plan a Stress-Free Wedding with Invyt](https://invyt.app/blog/wedding-planning)
-- [Corporate Event Planning Made Simple](https://invyt.app/blog/corporate-events)
-- [Explore All Articles](https://invyt.app/blog)
+- [Top 10 Tips for Managing Event Guest Lists](https://www.invyt.app/blog/top-10-tips)
+- [How to Plan a Stress-Free Wedding with Invyt](https://www.invyt.app/blog/wedding-planning)
+- [Corporate Event Planning Made Simple](https://www.invyt.app/blog/corporate-events)
+- [Explore All Articles](https://www.invyt.app/blog)
 
 ## Frequently Asked Questions
 - **How does Invyt help with guest list management?** Invyt provides tools to create, share, and track RSVPs with real-time updates.
@@ -56,14 +56,14 @@ Check out our expert guides for event planning tips:
 - **How secure is my guest information?** We prioritize data security to keep your guest details safe.
 
 ## Stay Connected
-- **Website**: [Invyt.app](https://invyt.app)
-- **Blog**: [invyt.app/blog](https://invyt.app/blog)
+- **Website**: [Invyt.app](https://www.invyt.app)
+- **Blog**: [invyt.app/blog](https://www.invyt.app/blog)
 - **Follow Us**: [Instagram](https://instagram.com/invytapp) | [Threads](https://threads.net/invytapp)
-- **Contact**: [Contact Us](https://invyt.app/contact)
-- **Policies**: [Privacy Policy](https://invyt.app/privacy) | [Terms of Service](https://invyt.app/terms)
+- **Contact**: [Contact Us](https://www.invyt.app/contact)
+- **Policies**: [Privacy Policy](https://www.invyt.app/privacy) | [Terms of Service](https://www.invyt.app/terms)
 
 ## Contributing
-Interested in contributing to Invyt? We welcome feedback and ideas! Reach out via [Contact Us](https://invyt.app/contact) or create an issue on this repository.
+Interested in contributing to Invyt? We welcome feedback and ideas! Reach out via [Contact Us](https://www.invyt.app/contact) or create an issue on this repository.
 
 ## License
 © 2025 Invyt. All rights reserved.
